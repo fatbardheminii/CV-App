@@ -1,0 +1,37 @@
+    .work-experience-section {
+  background-color: #f4f4f4;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+.work-experience-section form div,
+.work-experience-section .display-section {
+  margin-bottom: 15px;
+}
+
+.work-experience-section label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.work-experience-section input,
+.work-experience-section textarea {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.work-experience-section textarea {
+  resize: vertical;
+}
+
+.work-experience-section button {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 4px;
+  cursor: pointer;
+}

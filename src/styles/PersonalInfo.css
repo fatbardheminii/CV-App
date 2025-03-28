@@ -1,0 +1,32 @@
+.personal-info-section {
+  background-color: #f4f4f4;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+.personal-info-section form div,
+.personal-info-section .display-section {
+  margin-bottom: 15px;
+}
+
+.personal-info-section label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.personal-info-section input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.personal-info-section button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 4px;
+  cursor: pointer;
+}

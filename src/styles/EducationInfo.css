@@ -1,0 +1,32 @@
+.education-info-section {
+  background-color: #f4f4f4;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+.education-info-section form div,
+.education-info-section .display-section {
+  margin-bottom: 15px;
+}
+
+.education-info-section label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.education-info-section input {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.education-info-section button {
+  background-color: #28a745;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 4px;
+  cursor: pointer;
+}
